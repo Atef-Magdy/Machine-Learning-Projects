@@ -12,7 +12,7 @@ This repositry contains my solutions for the python versions of the programming 
 
 ## Requirements 
 
-These assignments has been tested and developed using the following libraries: 
+These assignments has been tested and developed using the following libraries(This versiond or higher): 
 
     - python==3.6.4
     - numpy==1.13.3
@@ -24,5 +24,3 @@ These assignments has been tested and developed using the following libraries:
 ## Acknowledgements
 
 - I would like to thank professor Andrew Ng and the crew of the Stanford Machine Learning class on Coursera for such an awesome class. 
-
-- Some of the material used, especially the code for submitting assignments for grading is based on [`mstampfer`'s](https://github.com/mstampfer/Coursera-Stanford-ML-Python) python implementation of the assignments. 
