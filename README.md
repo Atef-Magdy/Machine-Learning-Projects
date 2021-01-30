@@ -24,3 +24,18 @@ These assignments has been tested and developed using the following libraries(Th
 ## Acknowledgements
 
 - I would like to thank professor Andrew Ng and the crew of the Stanford Machine Learning class on Coursera for such an awesome class. 
+
+## Achievement
+
+# TODO
+
+| Exercice | status |
+| --- | :---: |
+| Linear Regression   | ✔️ |
+| Logestic Regression | ✔️ |
+| Neural Network (Forward propagation)  | ✔️ |
+| Neural Network (Backword propagation) | ✔️ |
+| System Design | |
+| Support Vector Machine | |
+| K-Means Clustering and PCA | |
+| Anomaly Detection and Recommender Systems | |
